@@ -17,3 +17,15 @@
 - didn't quite understand the `Weight Modfier` used in the project [ComposeQuadrant](/ComposeQuadrant/app/src/main/java/com/example/composequadrant/MainActivity.kt)
 
 - Gotta go over the above mentioned project once again. Feels like pretty basic.
+
+
+---
+
+## Showcase
+
+
+
+https://github.com/user-attachments/assets/1f31f0a2-0977-47b7-964d-82c8a12adeb6
+
+
+
